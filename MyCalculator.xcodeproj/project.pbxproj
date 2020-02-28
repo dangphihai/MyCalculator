@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BAB06DB2408FED0007741C1 /* CalculatorLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BAB06DA2408FED0007741C1 /* CalculatorLogic.swift */; };
 		0BB52BD82408EFD500E555AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB52BD72408EFD500E555AB /* AppDelegate.swift */; };
 		0BB52BDA2408EFD500E555AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB52BD92408EFD500E555AB /* SceneDelegate.swift */; };
 		0BB52BDC2408EFD500E555AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB52BDB2408EFD500E555AB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0BAB06DA2408FED0007741C1 /* CalculatorLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorLogic.swift; sourceTree = "<group>"; };
 		0BB52BD42408EFD500E555AB /* MyCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BB52BD72408EFD500E555AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BB52BD92408EFD500E555AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				0BB52BD72408EFD500E555AB /* AppDelegate.swift */,
 				0BB52BD92408EFD500E555AB /* SceneDelegate.swift */,
+				0BAB06DA2408FED0007741C1 /* CalculatorLogic.swift */,
 				0BB52BDB2408EFD500E555AB /* ViewController.swift */,
 				0BB52BDD2408EFD500E555AB /* Main.storyboard */,
 				0BB52BE02408EFD700E555AB /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BAB06DB2408FED0007741C1 /* CalculatorLogic.swift in Sources */,
 				0BB52BDC2408EFD500E555AB /* ViewController.swift in Sources */,
 				0BB52BD82408EFD500E555AB /* AppDelegate.swift in Sources */,
 				0BB52BDA2408EFD500E555AB /* SceneDelegate.swift in Sources */,
